@@ -1,0 +1,11 @@
+ul li {
+  list-style-type: none; }
+
+.header {
+  background: #4caf50;
+  display: flex;
+  justify-content: flex-end; }
+  .header ul {
+    display: flex; }
+
+/*# sourceMappingURL=index.css.map */
